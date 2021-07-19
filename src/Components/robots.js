@@ -25,9 +25,9 @@ export const robots = [
     },
     {
         id: 5,
-        name: 'marrgarritah',
-        username: 'marrgarritah',
-        email: 'Idi_ileke@tominsin.ca'
+        name: 'Samuel',
+        username: 'Samuel290',
+        email: 'Samuel@gmail.com'
     },
     {
         id: 6,
