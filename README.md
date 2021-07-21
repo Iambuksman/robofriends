@@ -5,3 +5,7 @@ Yes, today is 19/07/2021. <strong>Now trying to figure out how to make a pull re
 This is supposed to be a standard readme. 
 This will be fleshed out in due time. 
 2021.
+
+
+
+Continuation - Still making some updates.
